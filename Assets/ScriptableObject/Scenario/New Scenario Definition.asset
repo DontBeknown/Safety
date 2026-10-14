@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34d0c2bfa819df44fb802ae281fbec50, type: 3}
+  m_Name: New Scenario Definition
+  m_EditorClassIdentifier: Assembly-CSharp::SafetySimulation.ScenarioDefinition
+  id: ceiling-inspection
+  Objectives:
+  - {fileID: 11400000, guid: d26210835c31f574ab27c9771d879ecb, type: 2}
+  - {fileID: 11400000, guid: a40b68d998215d747b209f4018ac9451, type: 2}
+  - {fileID: 11400000, guid: bfac79068fd84c143abae46aa1da22a1, type: 2}
+  - {fileID: 11400000, guid: 94b9336ec1dad76428b79a6f29547a75, type: 2}
+  - {fileID: 11400000, guid: fa6ff5ef7893df44cb218385249d56af, type: 2}
+  - {fileID: 11400000, guid: 9827cdc1980d7c641b8a82d9639cdd61, type: 2}
+  - {fileID: 11400000, guid: 9bbd44a0f2238124a9fd9fa1a6f3d3d5, type: 2}
+  - {fileID: 11400000, guid: 8e9f0d10bf97e0748a4659d3f1db84d0, type: 2}
+  - {fileID: 11400000, guid: b28b34c6caf4c804da014d9461b36fd9, type: 2}
+  - {fileID: 11400000, guid: ba7acd3ffff6231489db87a6fd6a26be, type: 2}
+  Gates:
+  - {fileID: 11400000, guid: 3727a06145b7293488d348beb6bb5654, type: 2}
+  - {fileID: 11400000, guid: bdb4156833fc8794dad4d527f1b2ab76, type: 2}
+  - {fileID: 11400000, guid: ca4c34ed5f0c86d42943139730ee9240, type: 2}
+  - {fileID: 11400000, guid: 2b83d4a9b74515344b0e2dfccd70dbce, type: 2}
+  - {fileID: 11400000, guid: ed7f823919d09d44b934266d77821867, type: 2}
+  - {fileID: 11400000, guid: e141db79f35b914438c5665a31af8ab0, type: 2}
+  - {fileID: 11400000, guid: de1948a4fd97fcd4ea14fb2f52fe73be, type: 2}
+  - {fileID: 11400000, guid: 3b33d05e6ccf80147a7b4f99c6d237ab, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1c9e690002b3fa4cab39da4a4983a5f, type: 3}
+  m_Name: Measure_B
+  m_EditorClassIdentifier: Assembly-CSharp::SafetySimulation.AchievementDefinition
+  Type: 3
+  Id: B
+  Description: Measure current at point B from the ladder after inspection.
+  Required: 1
+  Prerequisites:
+  - {fileID: 11400000, guid: 4b6ddbb454f847c489b2d4be856e5f66, type: 2}
+  - {fileID: 11400000, guid: 0f43248ba74aa1d4192f588a134c2867, type: 2}

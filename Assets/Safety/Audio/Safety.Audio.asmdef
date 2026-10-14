@@ -1,0 +1,6 @@
+{
+    "name": "Safety.Audio",
+    "rootNamespace": "SafetySimulation",
+    "references": [],
+    "autoReferenced": true
+}

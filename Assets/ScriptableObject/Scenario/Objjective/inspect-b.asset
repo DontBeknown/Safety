@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1c9e690002b3fa4cab39da4a4983a5f, type: 3}
+  m_Name: inspect-b
+  m_EditorClassIdentifier: Assembly-CSharp::SafetySimulation.ObjectiveDefinition
+  Id: inspect-b
+  Description: InspectedB
+  Required: 1
+  Prerequisites:
+  - {fileID: 11400000, guid: a40b68d998215d747b209f4018ac9451, type: 2}
+  Conditions:
+  - {fileID: 11400000, guid: cde2dd0fb9af8e643b534e99e33f84cf, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf40e9ee187409478c6d7177c06ca75, type: 3}
+  m_Name: Meter
+  m_EditorClassIdentifier: Assembly-CSharp::SafetySimulation.ToolDefinition
+  Id: current_meter
+  DisplayName: Current Menter
+  Icon: {fileID: 0}
+  Prefab: {fileID: 5884015848819958453, guid: 55911acd6e272df4e9bc31bdccab6354, type: 3}
+  EquipPosition: {x: 0, y: 0, z: 0}
+  EquipEuler: {x: -60, y: 180, z: 0}
